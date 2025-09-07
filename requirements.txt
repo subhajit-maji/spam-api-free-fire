@@ -1,0 +1,11 @@
+Flask
+requests
+gunicorn
+pycryptodome
+psycopg2
+dotenv
+urllib3
+aiohttp
+googleapis-common-protos
+pycryptodome
+protobuf
